@@ -1,0 +1,7 @@
+com\vicentemilla\canciones\comVicenteMillaServicios\ServicioCanciones.class
+com\vicentemilla\canciones\comVicenteMillaControladores\ControladorCanciones.class
+com\vicentemilla\canciones\comVicentemillaRepositorios\repositorioCanciones.class
+com\vicentemilla\canciones\ServletInitializer.class
+com\vicentemilla\canciones\CancionesApplication.class
+com\vicentemilla\canciones\comVicenteMillaModelos\Cancion.class
+com\vicentemilla\canciones\comVicentemillaRepositorios\repositorioCanciones$CancionRepository.class
